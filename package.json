@@ -11,9 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@koa/cors": "^3.4.1",
     "another-random-package": "^1.0.2",
-    "cors": "^2.8.5",
     "jest": "^29.0.3",
-    "koa": "^2.13.4"
+    "koa": "^2.13.4",
+    "localtunnel": "^2.0.2"
   }
 }
